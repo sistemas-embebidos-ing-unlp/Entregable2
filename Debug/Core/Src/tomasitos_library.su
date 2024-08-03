@@ -1,0 +1,5 @@
+../Core/Src/tomasitos_library.c:14:16:Encoder_Get_Status	24	static
+../Core/Src/tomasitos_library.c:35:6:PrintBufferAsGraph	48	static
+../Core/Src/tomasitos_library.c:68:6:ImprimirLinea	16	static
+../Core/Src/tomasitos_library.c:76:10:antirebote_ftn	16	static
+../Core/Src/tomasitos_library.c:86:10:set_PWM_period	24	static
